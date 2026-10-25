@@ -11,7 +11,10 @@ that path is replaced by `~/`. Nothing else changed. Hashes before and after:
 | `notebooks/02_polarization.html` | `b72f10054986f1729c80c4fb74bb1a92a6c8efd83e0daadfb0a96d405d4c1043` | `16a4dd5a936554ffa5b3e35f4a7bb68597237ad117f0a68ce7c801652ef324aa` | no |
 
 For a bundle file listed above, `sha256sum -c prereg/BUNDLE.sha256` reports that one file as changed, and the
-frozen hash in the first column is the one the seal covers. `verify.py` accepts exactly these documented
-changes and nothing else. Every other bundle file, including the frozen forecast record
-(`prereg/forecast_frozen.json`), the ledger and the code, verifies unchanged. The scoring notebook re-runs the
-frozen model and asserts that it reproduces the frozen probabilities.
+frozen hash in the first column is the one the seal covers. This file is not itself sealed, so `verify.py` does
+not take it on trust alone: it accepts a documented change only for a notebook rendering, never for the
+pre-registration, the data manifest, the frozen forecast record, the ledger or the code, and it checks the
+published forecast notebook against the sealed sources (every cell is what the sealed
+`src/build_forecast_notebook.py` generates, and the forecast it prints equals the sealed
+`prereg/forecast_frozen.json`). What no check can do without the original path is recompute the sealed hash;
+the original file is available on request (vina@vinarise.com). Every other bundle file verifies unchanged.
