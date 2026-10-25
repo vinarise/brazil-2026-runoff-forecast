@@ -1,0 +1,30 @@
+{
+  "purpose": "Independent pre-deadline evidence that the bundle digest existed before the polls closed (17:00 GMT-3 = 20:00 UTC, 2026-10-25).",
+  "bundle_digest_sha256": "7fc84ca5265a9ec19869c1523ea06cf395704cea349538690e90cd0454d1d41f",
+  "digest_of": "prereg/BUNDLE.sha256",
+  "deadline_utc": "2026-10-25T20:00:00Z",
+  "paste": {
+    "url": "https://dpaste.org/2LgSx",
+    "raw_url": "https://dpaste.org/2LgSx/raw",
+    "posted_at_utc": "2026-10-25T15:16:03Z",
+    "content": "the digest only, nothing else"
+  },
+  "captures": [
+    {
+      "archive": "Internet Archive Wayback Machine",
+      "url": "https://web.archive.org/web/20261025151609/https://dpaste.org/2LgSx/raw",
+      "capture_time_utc": "2026-10-25T15:16:09Z",
+      "retrieved_bytes_sha256": "0cdb8ac90cc115424b0d2462c01578cb40650c5e278fbf16c4714d1b6874d324",
+      "retrieved_copy": "proof/wayback_raw_capture.txt",
+      "contains_digest": true
+    },
+    {
+      "archive": "Internet Archive Wayback Machine",
+      "url": "https://web.archive.org/web/20261025151619/https://dpaste.org/2LgSx",
+      "capture_time_utc": "2026-10-25T15:16:19Z",
+      "contains_digest": true
+    }
+  ],
+  "margin_before_deadline": "4 h 43 min",
+  "note": "The paste expires after 365 days. The Wayback captures are the durable record."
+}

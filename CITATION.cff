@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this forecast, its data or its code, please cite it as below."
+type: software
+title: "Brazil 2026 presidential runoff: a pre-registered forecast"
+abstract: >-
+  A pre-registered Bayesian aggregation of 58 TSE-registered national runoff polls for Brazil's
+  2026-10-25 presidential runoff, sealed (hashed, anchored in Bitcoin and captured by the
+  Internet Archive) before the polls closed and scored against the official count afterwards,
+  with a companion study of polarization in a near-even electorate.
+authors:
+  - name: "Vina"
+    website: "https://vinarise.com"
+    email: "vina@vinarise.com"
+repository-code: "https://github.com/vinarise/brazil-2026-runoff-forecast"
+url: "https://vinarise.com"
+date-released: "2026-10-25"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - election forecasting
+  - pre-registration
+  - Bayesian poll aggregation
+  - OpenTimestamps
+  - polarization
+  - Brazil

@@ -1,0 +1,24 @@
+name: Correction
+description: A factual or typographical error, a broken link or a citation that doesn't match its source.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What it says, and what it should say
+    validations:
+      required: true
+  - type: dropdown
+    id: author
+    attributes:
+      label: Who is writing?
+      options:
+        - A person
+        - An AI agent

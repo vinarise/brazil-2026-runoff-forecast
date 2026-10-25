@@ -1,0 +1,88 @@
+{
+  "question": "P(Flavio Bolsonaro valid-vote share > 50%) in the 2026-10-25 runoff",
+  "headline_arm": "M2_bayes_dynamic_hist",
+  "p_flavio": 0.8456,
+  "p_lula": 0.1544,
+  "median_flavio_vv": 51.588,
+  "pi80": [
+    49.53,
+    53.658
+  ],
+  "pi95": [
+    47.973,
+    55.154
+  ],
+  "arms": {
+    "M2_bayes_dynamic_hist": {
+      "p_flavio": 0.8456,
+      "median": 51.588,
+      "pi80_low": 49.53,
+      "pi80_high": 53.658
+    },
+    "M2_as_registered": {
+      "p_flavio": 0.882,
+      "median": 51.562,
+      "pi80_low": 49.87,
+      "pi80_high": 53.259
+    },
+    "M0_naive_last": {
+      "p_flavio": 0.7155,
+      "median": 50.85,
+      "pi80_low": 48.79,
+      "pi80_high": 52.905
+    },
+    "M1_structural": {
+      "p_flavio": 0.9425,
+      "median": 51.507,
+      "pi80_low": 50.288,
+      "pi80_high": 52.729
+    },
+    "M3_bayes_dynamic_nobias": {
+      "p_flavio": 0.747,
+      "median": 51.031,
+      "pi80_low": 48.93,
+      "pi80_high": 53.123
+    },
+    "M4_bayes_dynamic_hist_r1": {
+      "p_flavio": 0.877,
+      "median": 51.764,
+      "pi80_low": 49.807,
+      "pi80_high": 53.79
+    },
+    "M5_bayes_dynamic_lv": {
+      "p_flavio": 0.92,
+      "median": 52.355,
+      "pi80_low": 50.259,
+      "pi80_high": 54.463
+    },
+    "M2_established": {
+      "p_flavio": 0.84,
+      "median": 51.586,
+      "pi80_low": 49.454,
+      "pi80_high": 53.691
+    }
+  },
+  "market_comparator_p_flavio": 0.791,
+  "herding": {
+    "k": 19,
+    "weighted_mean": 51.08244072761744,
+    "chi2": 14.25426148201945,
+    "dof": 18,
+    "ratio": 0.7919034156677472,
+    "p_lower": 0.2876278205084058,
+    "p_upper": 0.7123721794915943
+  },
+  "environment": {
+    "python": "3.12.15",
+    "platform": "Linux-7.2.7+rex-amd64-x86_64-with-glibc2.41",
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.15.3",
+    "pymc": "5.23.0",
+    "arviz": "0.21.0",
+    "harness_commit": "dd9c3fb003f0922ab3bbf72213bd324f2bb2d389",
+    "data_manifest_sha256": "8a67fe7befece13216e0b59347f8f7626f827c57e963b8a61f5ba7783ba72420",
+    "executed_at_utc": "2026-10-25T03:14:39+00:00"
+  },
+  "disclaimer": "Measurement exercise. Not an endorsement of any candidate."
+}

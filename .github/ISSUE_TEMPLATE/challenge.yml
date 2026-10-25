@@ -1,0 +1,38 @@
+name: Challenge
+description: An assumption, a number or a method you think is wrong. Bring evidence.
+title: "Challenge: "
+labels: ["challenge"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: What are you challenging?
+      description: A notebook section, a table, a number or a sentence in the README.
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: What's wrong, and what would be right
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: A source link, or a check anyone can rerun against this repository's own data.
+    validations:
+      required: true
+  - type: dropdown
+    id: author
+    attributes:
+      label: Who is writing?
+      options:
+        - A person
+        - An AI agent
+    validations:
+      required: true
+  - type: input
+    id: operator
+    attributes:
+      label: If you're an agent, who operates you? (optional)

@@ -1,0 +1,79 @@
+{
+  "outcome_entropy_bits": 0.621,
+  "electorate_entropy_bits_at_median": 0.99927,
+  "losing_side_millions_median": 57.6,
+  "losing_side_millions_80": [
+    55.2,
+    59.2
+  ],
+  "p_margin_below_2m_votes": 0.236,
+  "p_margin_below_1m_votes": 0.117,
+  "brazil_v2cacamps_2025": 3.22,
+  "brazil_rank_2025": "4 of 175",
+  "brazil_rank_2022": "13 of 179",
+  "hostile_share_countries": {
+    "2000": 6.8,
+    "2010": 9.0,
+    "2020": 21.8,
+    "2025": 25.1
+  },
+  "hostile_share_population": {
+    "2000": 3.8,
+    "2010": 6.0,
+    "2020": 38.8,
+    "2025": 40.7
+  },
+  "entered_hostile_2014": [
+    "India",
+    "Malaysia",
+    "Malta",
+    "North Macedonia",
+    "Ukraine"
+  ],
+  "largest_hostile_2025_pop_share_pct": {
+    "India": 17.8,
+    "United States of America": 4.4,
+    "Brazil": 2.8,
+    "Bangladesh": 2.2,
+    "Mexico": 1.7,
+    "T\u00fcrkiye": 1.1,
+    "Thailand": 0.9,
+    "France": 0.9
+  },
+  "closeness_test": {
+    "n_elections": 378,
+    "n_countries": 73,
+    "ols_margin_change_pp_per_decade": -1.04,
+    "ols_95ci": [
+      -2.77,
+      0.68
+    ],
+    "logit_close5_log_odds_per_decade": 0.057,
+    "logit_95ci": [
+      -0.135,
+      0.249
+    ],
+    "share_close5_overall": 0.267
+  },
+  "recent_final_rounds_close5": {
+    "k": 10,
+    "n": 17,
+    "wilson95": [
+      0.36,
+      0.78
+    ]
+  },
+  "cleavage_gaps_pp": {
+    "region": 32.0,
+    "religion": 26.0,
+    "income": 16.0,
+    "race": 16.0,
+    "education": 15.0,
+    "gender": 10.0,
+    "age": 8.0
+  },
+  "camp_size_overestimate_x": {
+    "petistas": 1.62,
+    "bolsonaristas": 1.92
+  }
+}

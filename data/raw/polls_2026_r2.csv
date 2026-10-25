@@ -1,0 +1,60 @@
+pollster,published,field_start,field_end,n,mode,tse_reg,flavio_vv,lula_vv,moe,vv_calc,include,flag,source_url
+Datafolha,2026-10-24,2026-10-23,2026-10-24,4050,P,BR-09540/2026,50.89,49.11,2.0,0,1,,https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml
+Quaest,2026-10-24,2026-10-23,2026-10-24,3702,P,BR-09158/2026,51.0,49.0,2.0,0,1,,https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-51-dos-votos-validos-e-lula-tem-49-na-vespera-da-eleicao.shtml
+AtlasIntel,2026-10-24,2026-10-18,2026-10-23,4990,O,BR-06380/2026,50.8,49.2,1.0,0,1,technical sheet varies across outlets (Agencia Estado); Exame+UOL adopted,https://exame.com/brasil/pesquisa-atlasintel-flavio-bolsonaro-tem-508-e-lula-492-na-vespera-do-2o-turno/
+Futura,2026-10-24,2026-10-23,2026-10-24,2000,T,BR-09726/2026,50.1,49.9,2.2,0,1,second compilation computed 50.2 from totals,https://exame.com/brasil/pesquisa-futura-flavio-bolsonaro-tem-501-e-lula-499-no-2o-turno/
+BTG/Nexus,2026-10-24,2026-10-23,2026-10-24,2000,T,BR-08234/2026,50.5,49.5,2.2,0,1,likely-voter model 52.4/47.6 published separately,https://www.nexus.fsb.com.br/estudos-divulgados/pesquisa-btg-nexus-de-intencao-de-votos-para-presidente-do-brasil-24-de-outubro-de-2026/
+CNT/MDA,2026-10-24,2026-10-21,2026-10-23,2002,P,BR-02136/2026,50.7,49.3,2.2,0,1,n reported as 2002 (InfoMoney) or 2032 (Exame); smaller adopted,https://exame.com/brasil/pesquisa-para-presidente-cnt-mda-flavio-bolsonaro-tem-507-e-lula-493-dos-votos-valdios/
+Gerp,2026-10-24,2026-10-22,2026-10-24,2400,T,BR-09327/2026,52.0,48.0,2.0,0,1,,https://exame.com/brasil/pesquisa-gerp-para-presidente-flavio-bolsonaro-tem-52-e-lula-48-dos-votos-validos/
+Palver,2026-10-24,2026-10-22,2026-10-24,5000,O,BR-01794/2026,50.5,49.5,2.2,1,1,moe 2.2 or 3.0 across sources,https://exame.com/brasil/pesquisa-para-presidente-palver-flavio-bolsonaro-tem-50-e-lula-49-no-2o-turno/
+Instituto Franca,2026-10-24,2026-10-21,2026-10-23,1537,NC,BR-04863/2026,51.4,48.6,2.5,0,1,,https://static.poder360.com.br/uploads/2026/10/Pesquisa-presidencial-Instituto-Franca-24out2026.pdf
+Colectta,2026-10-24,2026-10-23,2026-10-23,3000,P,BR-05601/2026,49.7,50.3,2.0,1,1,,https://www.congressoemfoco.com.br/noticia/123594/lula-tem-50-3-e-flavio-49-7-dos-votos-validos-diz-colectta
+Verita,2026-10-24,2026-10-19,2026-10-23,15554,URA,BR-03181/2026,51.56,48.44,1.0,0,1,rolling tracking; overlaps previous Verita releases,https://exame.com/brasil/pesquisa-verita-flavio-bolsonaro-tem-5156-e-lula-4844-no-2o-turno/
+Real Time Big Data,2026-10-23,2026-10-19,2026-10-22,2000,T,BR-09670/2026,52.0,48.0,2.0,0,1,,https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Presidencial-BR-09670-2026-Out26.pdf
+Alfa Inteligencia,2026-10-23,2026-10-18,2026-10-22,2700,NC,BR-08496/2026,52.0,48.0,1.9,0,1,,https://www.cnnbrasil.com.br/eleicoes/alfa-flavio-tem-52-dos-votos-validos-no-2o-turno-lula-48/
+Ipespe/Abrapel,2026-10-23,2026-10-20,2026-10-22,1500,T,BR-04350/2026,50.5,49.5,2.6,0,1,,https://ipespe.org.br/wp-content/uploads/2026/10/TRK-CAMPANHA-03_-IPESPE-ABRAPEL_2T_-20-a-22-OUT-2026_-VF_.pdf
+Vox Brasil,2026-10-23,2026-10-20,2026-10-22,2100,P,BR-03259/2026,49.4,50.6,2.15,0,1,,https://static.poder360.com.br/uploads/2026/10/RELATORIO-VOX-BRASIL-NACIONAL-11-2-TURNO-23-10-2026.pdf
+Verita,2026-10-23,2026-10-18,2026-10-22,15554,URA,BR-06070/2026,51.3,48.7,1.0,0,1,rolling tracking,https://exame.com/brasil/pesquisa-verita-flavio-bolsonaro-tem-513-e-lula-487-dos-votos-validos/
+DataTrends,2026-10-23,2026-10-19,2026-10-21,2000,T,BR-03365/2026,51.9,48.1,2.19,0,1,second compilation computed 52.1 from totals,https://www.edmarlyra.com/datatrends-flavio-bolsonaro-amplia-vantagem-sobre-lula-e-chega-a-519-dos-votos-validos/
+Vetor/Arrow,2026-10-23,2026-10-22,2026-10-23,6867,URA,BR-06957/2026,52.7,47.3,1.2,0,1,single secondary source,https://radiocorredor.com.br/posts/vetor-arrow-flavio-52-7-lula-47-3-validos-2-turno-2310
+Datafolha,2026-10-22,2026-10-20,2026-10-22,2520,P,BR-09709/2026,50.47,49.53,2.0,0,1,published rounded as 50-50,https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-lula-empatam-com-50-dos-votos-validos-cada.shtml
+PoderData,2026-10-22,2026-10-19,2026-10-21,4000,URA,BR-07926/2026,51.0,49.0,1.6,0,1,,https://static.poder360.com.br/uploads/2026/10/Relatorio-PoderData-Eleitoral-21out26-2.pdf
+Indexa/Broadcast,2026-10-22,2026-10-20,2026-10-21,2000,T,BR-02348/2026,50.6,49.4,2.2,0,1,,https://www.cnnbrasil.com.br/eleicoes/indexa-broadcast-flavio-tem-506-dos-votos-validos-lula-494/
+Meio/Ideia,2026-10-21,2026-10-15,2026-10-19,1500,T,BR-08251/2026,51.1,48.9,2.5,0,1,,https://static.poder360.com.br/uploads/2026/10/Pesquisa-Meio_Ideia-Outubro-Imprensa.pdf
+Verita,2026-10-21,2026-10-15,2026-10-19,15554,URA,BR-06396/2026,50.7,49.3,1.0,0,1,rolling tracking,https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-507-dos-votos-validos-no-2o-turno-lula-493/
+Quaest,2026-10-21,2026-10-17,2026-10-20,2154,P,BR-08535/2026,50.6,49.4,2.0,1,1,,https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-45-e-lula-tem-44-no-2o-turno.shtml
+Palver,2026-10-21,2026-10-18,2026-10-20,5000,O,BR-04612/2026,51.0,49.0,2.4,1,1,,https://noticias.uol.com.br/eleicoes/2026/10/21/palver-pesquisa-presidencial-segundo-turno-21-de-outubro.ghtm
+Futura,2026-10-21,2026-10-19,2026-10-20,2000,T,BR-06614/2026,51.1,48.9,2.2,0,1,,https://static.poder360.com.br/uploads/2026/10/pesquisaFutura-presidente-21out2026.pdf
+Gerp,2026-10-21,2026-10-19,2026-10-21,2400,T,BR-03835/2026,53.0,47.0,2.0,0,1,,https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-53-dos-votos-validos-no-2o-turno-lula-47/
+Data Ranking,2026-10-20,2026-10-14,2026-10-16,2100,P,BR-00152/2026,49.6,50.4,2.15,0,1,,https://fonte83.com.br/politica/pesquisa-nacional-data-ranking-lula-tem-504-e-flavio-496-no-2o-turno/
+Real Time Big Data,2026-10-20,2026-10-15,2026-10-19,2000,T,BR-02952/2026,52.0,48.0,2.0,0,1,,https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Presidencial-BR-02952-2026-Out26.pdf
+Gerp,2026-10-20,2026-10-15,2026-10-19,2400,T,,53.0,47.0,2.0,0,0,tracking release without a confirmable TSE registration: excluded by rule,https://timesbrasil.com.br/eleicoes-2026/bolsonaro-lula-2-gerp-segundo-turno-votos-validos/
+Alfa Inteligencia,2026-10-20,2026-10-15,2026-10-19,2700,NC,BR-00820/2026,51.5,48.5,1.9,0,1,,https://www.cnnbrasil.com.br/eleicoes/alfa-flavio-tem-515-dos-votos-validos-no-2o-turno-lula-485/
+Instituto Franca,2026-10-20,2026-10-16,2026-10-20,3000,NC,BR-07896/2026,50.81,49.19,1.8,0,1,,https://fanf1.com.br/2026/10/20/instituto-franca-flavio-tem-508-e-lula-492-indecisos-sao-quase-9/
+Futura,2026-10-19,2026-10-16,2026-10-17,2000,T,BR-06715/2026,50.4,49.6,2.2,0,1,,https://static.poder360.com.br/uploads/2026/10/pesquisa-futura-eleicao-presidencial-19out2026.pdf
+AtlasIntel,2026-10-19,2026-10-13,2026-10-18,4998,O,BR-02418/2026,51.1,48.9,1.0,0,1,,https://sbtnews.sbt.com.br/noticia/eleicoes/atlas-bloomberg-flavio-tem-51-1-e-lula-48-9-dos-validos
+BTG/Nexus,2026-10-19,2026-10-16,2026-10-18,2002,T,BR-04499/2026,50.3,49.7,2.0,0,1,,https://www.nexus.fsb.com.br/estudos-divulgados/pesquisa-btg-nexus-de-intencao-de-votos-para-presidente-do-brasil-19-de-outubro-de-2026/
+PoderData,2026-10-19,2026-10-16,2026-10-18,3000,URA,BR-02586/2026,52.0,48.0,1.8,0,1,,https://static.poder360.com.br/uploads/2026/10/Relatorio-PoderData-Eleitoral-18out26.pdf
+DataTrends,2026-10-19,2026-10-15,2026-10-17,2000,T,BR-04454/2026,51.5,48.5,2.19,0,1,,https://www.blogdobg.com.br/pesquisa-datatrends-flavio-bolsonaro-tem-515-dos-votos-validos-contra-485-de-lula/
+Phoenix,2026-10-19,2026-10-13,2026-10-16,3999,NC,BR-08809/2026,48.7,51.3,1.55,0,1,low auditability: registration naming and coverage description inconsistent,https://www.phoenixnewsrondonia.com.br/pesquisa-do-instituto-phoenix-aponta-lula-com-51-3-e-flavio-bolsonaro-com-48-7-dos-votos-validos
+Vox Brasil,2026-10-18,2026-10-15,2026-10-17,2100,P,BR-04332/2026,49.0,51.0,2.15,0,1,,https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-51-contra-49-de-flavio-em-votos-validos-diz-vox/
+Ipespe/Abrapel,2026-10-17,2026-10-13,2026-10-15,1500,T,BR-00223/2026,51.2,48.8,2.6,0,1,,https://static.poder360.com.br/uploads/2026/10/pesquisa-ipespe-17out2026.pdf
+Verita,2026-10-17,2026-10-12,2026-10-16,15554,URA,BR-01107/2026,51.1,48.9,1.0,0,1,rolling tracking,https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-511-dos-votos-validos-no-2o-turno-lula-489/
+Futura,2026-10-16,2026-10-14,2026-10-15,2000,T,BR-03764/2026,50.8,49.2,2.2,0,1,education weighting changed this round,https://static.poder360.com.br/uploads/2026/10/Relatorio_BR_Out_2_V2_ComTexto_Final.pdf
+CNT/MDA,2026-10-16,2026-10-13,2026-10-15,2014,P,BR-00652/2026,50.5,49.5,2.2,0,1,,https://static.poder360.com.br/uploads/2026/10/Relatorio-Pesquisa-CNT-de-Opiniao-R172-OUTUBRO26.pdf
+PoderData,2026-10-16,2026-10-13,2026-10-15,3000,URA,BR-04258/2026,50.0,50.0,1.8,0,1,,https://static.poder360.com.br/uploads/2026/10/Relatorio-PoderData-Eleitoral-15out26.pdf
+Gerp,2026-10-16,2026-10-14,2026-10-16,2400,T,BR-05187/2026,52.0,48.0,2.0,0,1,,https://static.poder360.com.br/uploads/2026/10/PesquisaGerp-presidente-16out2026.pdf
+Palver,2026-10-15,2026-10-10,2026-10-13,5000,O,BR-08028/2026,50.5,49.5,2.3,1,1,,https://static.poder360.com.br/uploads/2026/10/pesquisa-palver-presidente-nacional-15out2026-1.pdf
+Datafolha,2026-10-15,2026-10-13,2026-10-14,2520,P,BR-00466/2026,51.0,49.0,2.0,0,1,some compilations give field 13-15,https://static.poder360.com.br/uploads/2026/10/datafolha-2oturno-outubro.pdf
+Indexa/Broadcast,2026-10-15,2026-10-13,2026-10-14,2000,T,BR-04629/2026,51.0,49.0,2.2,0,1,,https://static.poder360.com.br/uploads/2026/10/indexabroadcast-2oturno-outubro.pdf
+Quaest,2026-10-14,2026-10-10,2026-10-13,2154,P,BR-08729/2026,51.1,48.9,2.0,1,1,,https://static.poder360.com.br/uploads/2026/10/quaest-presidencial-2oturno-outubro.pdf
+Futura,2026-10-13,2026-10-07,2026-10-10,2000,T,BR-00650/2026,51.8,48.2,2.2,0,1,,https://static.poder360.com.br/uploads/2026/10/Pesquisa-Futura-presidente.pdf
+Gerp,2026-10-13,2026-10-08,2026-10-12,2400,T,BR-07877/2026,55.0,45.0,2.0,0,1,,https://static.poder360.com.br/uploads/2026/10/PRESIDENCIA_DO_BRASIL_32o_Relatorio_Presidencia_2026_primeiro.pdf
+BTG/Nexus,2026-10-13,2026-10-10,2026-10-12,2002,T,BR-07997/2026,51.6,48.4,2.0,0,1,,https://www.dgabc.com.br/Noticia/4352364/flavio-bolsonaro-tem-48-e-lula-45-em-empate-tecnico-aponta-pesquisa-btg-nexus
+PoderData,2026-10-13,2026-10-10,2026-10-12,3000,URA,BR-01209/2026,51.0,49.0,1.8,0,1,,https://static.poder360.com.br/uploads/2026/10/Relatorio-PoderData-Eleitoral-12out26-2.pdf
+DataTrends,2026-10-11,2026-10-07,2026-10-09,2000,URA,BR-03576/2026,53.1,46.9,2.19,0,1,,https://static.poder360.com.br/uploads/2026/10/pesquisa-datatrends-nacional-11out2026.pdf
+Ipespe/Abrapel,2026-10-10,2026-10-06,2026-10-08,1500,T,BR-00933/2026,52.7,47.3,2.6,0,1,,https://exame.com/brasil/pesquisa-presidente-2o-turno-flavio-bolsonaro-tem-49-e-lula-44-diz-ipespe/
+AtlasIntel,2026-10-09,2026-10-03,2026-10-08,5026,O,BR-03663/2026,52.8,47.2,1.0,0,1,field began before the 1st round (Oct 4),https://www.moneytimes.com.br/pesquisa-atlasintel-9-de-outubro-gaep/
+Vox Brasil,2026-10-09,2026-10-05,2026-10-07,2100,P,BR-09623/2026,49.1,50.9,2.15,1,1,,https://www.correiodamanha.com.br/politica/2026/10/326029-pesquisa-vox-aponta-lula-com-442-e-flavio-com-427-no-2-turno.html
+Datafolha,2026-10-08,2026-10-06,2026-10-07,2520,P,BR-02949/2026,52.0,48.0,2.0,0,1,,https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno.shtml
+PoderData,2026-10-08,2026-10-05,2026-10-07,3000,URA,BR-08134/2026,53.0,47.0,1.8,0,1,,https://static.poder360.com.br/uploads/2026/10/Relatorio-PoderData-Eleitoral-8out26-final.pdf

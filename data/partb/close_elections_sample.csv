@@ -1,0 +1,18 @@
+country,year,round,winner_pct_two_party,margin_pp,confidence,source_url
+United States,2016,general (Electoral College winner lost popular vote),48.89,-2.10,high,https://www.fec.gov/resources/cms-content/documents/federalelections2016.pdf
+United States,2020,general,52.27,4.46,high,https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf
+United States,2024,general,50.75,1.47,high,https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf
+Brazil,2014,runoff,51.64,3.28,medium,https://dadosabertos.tse.jus.br/
+Brazil,2018,runoff,55.13,10.26,medium-high,https://dadosabertos.tse.jus.br/
+Brazil,2022,runoff,50.90,1.80,high,https://resultados.tse.jus.br/oficial/app/index.html
+France,2017,runoff,66.10,32.20,medium,https://www.conseil-constitutionnel.fr/decision/2017/2017169PDR.htm
+France,2022,runoff,58.55,17.10,medium,https://www.conseil-constitutionnel.fr/decision/2022/2022197PDR.htm
+Argentina,2015,runoff,51.34,2.68,high,https://www.pagina12.com.ar/diario/elpais/1-287314-2015-12-01.html
+Argentina,2023,runoff,55.65,11.30,high,https://www.cronista.com/economia-politica/resultados-escrutinio-definitivo-por-cuanto-le-gano-javier-milei-a-sergio-massa-en-el-balotaje/
+Colombia,2022,runoff,51.60,3.13,medium,https://resultados.registraduria.gov.co/
+Colombia,2026,runoff (preliminary count 99.99%),50.49,0.96,medium,https://newsroom.rcnradio.com/colombia/resultados-segunda-vuelta-elecciones-presidenciales-2026-hoy-21-de-junio-asi-quedo-la-jornada
+Chile,2021,runoff,55.87,11.74,high,https://www.chilevision.cl/noticias/nacional/con-el-5587-de-los-votos-tricel-proclamo-a-gabriel-boric-como-presidente-electo/amp/
+Chile,2025,runoff,58.16,16.32,high,https://www.biobiochile.cl/noticias/nacional/chile/2026/01/05/tricel-proclama-oficialmente-a-jose-antonio-kast-como-presidente-electo.shtml
+Peru,2021,runoff,50.13,0.25,medium-high,https://resultadoshistorico.onpe.gob.pe/EG2021/
+Poland,2025,runoff,50.89,1.78,high,https://www.bankier.pl/wiadomosc/PKW-podala-wyniki-ze-100-proc-obwodow-Karol-Nawrocki-prezydentem-elektem-8953201
+Romania,2025,runoff (rerun),53.60,7.20,high,https://www.digi24.ro/alegeri-prezidentiale-2025/rezultate-finale-ale-alegerilor-prezidentiale-de-la-bec-nicusor-dan-a-obtinut-6-168-642-de-voturi-george-simion-5-339-053-3249419

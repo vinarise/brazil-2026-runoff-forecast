@@ -1,0 +1,20 @@
+name: verify
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "17 9 * * 1"   # weekly: the archived evidence is still reachable and still matches
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  seal:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Check the data snapshot, the sealed bundle and the archived pre-deadline capture
+        run: python3 verify.py --online
