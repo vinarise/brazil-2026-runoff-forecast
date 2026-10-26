@@ -13,7 +13,7 @@ A reproducible, pre-registered forecast of Brazil's 2026-10-25 runoff (Flávio B
 | Headline arm | M2, a dynamic Bayesian poll aggregate. Its election-day error uses the form amended in Deviation 1 of `EXPERIMENT.md`, made after a 500-draw smoke run and before any ledger row, with its direction stated (it lowers P). The form as first registered is frozen and scored too: arm `M2_as_registered`, P(Flávio) = 0.882 |
 | Comparator | Prediction markets at the freeze: 0.791 |
 | Backtest | The same frozen model on the 2018 and 2022 runoffs, run before the result: median 56.35 vs 55.13 actual (2018) and 49.15 vs 49.10 (2022), both inside the 80% interval. `results/backtest.csv` |
-| Sealed | Hash anchored in Bitcoin (blocks 973010, mined 03:41 UTC, and 973014) and captured by the Internet Archive at 15:16 UTC, 4 h 43 min before the polls closed |
+| Sealed | Hash anchored in Bitcoin (blocks 973010, mined 03:41 UTC, and 973014) and captured by the Internet Archive at 15:16 UTC, 6 h 43 min before the polls closed (voting was extended to 19:00 GMT-3 by court order on election day; the margin to the originally scheduled 17:00 close was 4 h 43 min) |
 | Result | Pending the official count. This row and the scoring outputs (`results/verdict.json`, `results/scores.csv`, `notebooks/03_scoring.executed.ipynb`, `data/result/`) arrive after scoring in a separate commit, which changes no sealed file |
 
 ## What's here
@@ -31,7 +31,7 @@ Parts A and B each have an executed copy (`*.executed.ipynb`) and an HTML render
 1. `EXPERIMENT.md` fixed the question, the models, the constants and the scoring rules before any model ran. Deviations are appended there with a timestamp and a reason (two so far, both before the forecast was frozen; see the errata about the clock readings in that file).
 2. The poll snapshot is hashed in `prereg/data_manifest.sha256`. The harness refuses to run if any file differs.
 3. The forecast bundle (`prereg/BUNDLE.sha256`) was hashed and timestamped in the Bitcoin blockchain with OpenTimestamps before 17:00 GMT-3 on election day. Only the hash was public before the polls closed. The attestations sit in blocks 973010 (mined 03:41 UTC) and 973014 (04:05 UTC); `ots info prereg/BUNDLE.sha256.ots` prints the merkle root of each, to compare with any block explorer.
-4. Because Bitcoin block header times are approximate (they can drift by about two hours), the same hash was also posted, alone, to a public paste and captured by the Internet Archive at 15:16 UTC (12:16 GMT-3), 4 h 43 min before the polls closed. That capture carries its own independent timestamp. Details and retrieval hashes: `proof/independent_evidence.json`.
+4. Because Bitcoin block header times are approximate (they can drift by about two hours), the same hash was also posted, alone, to a public paste and captured by the Internet Archive at 15:16 UTC (12:16 GMT-3), 6 h 43 min before the polls closed (voting was extended to 19:00 GMT-3 by court order on election day; the margin to the originally scheduled 17:00 close was 4 h 43 min). That capture carries its own independent timestamp. Details and retrieval hashes: `proof/independent_evidence.json`.
 5. Part C scores the frozen numbers. Nothing in Part A is edited afterwards. The ledger and the scores are append-only.
 
 To verify the seal yourself, one command, standard library only:

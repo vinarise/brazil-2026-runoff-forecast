@@ -1,8 +1,8 @@
 {
-  "purpose": "Independent pre-deadline evidence that the bundle digest existed before the polls closed (17:00 GMT-3 = 20:00 UTC, 2026-10-25).",
+  "purpose": "Independent pre-deadline evidence that the bundle digest existed before the polls closed (19:00 GMT-3 = 22:00 UTC, after the court-ordered extension; originally 17:00 GMT-3, 2026-10-25).",
   "bundle_digest_sha256": "7fc84ca5265a9ec19869c1523ea06cf395704cea349538690e90cd0454d1d41f",
   "digest_of": "prereg/BUNDLE.sha256",
-  "deadline_utc": "2026-10-25T20:00:00Z",
+  "deadline_utc": "2026-10-25T22:00:00Z",
   "paste": {
     "url": "https://dpaste.org/2LgSx",
     "raw_url": "https://dpaste.org/2LgSx/raw",
@@ -25,6 +25,7 @@
       "contains_digest": true
     }
   ],
-  "margin_before_deadline": "4 h 43 min",
-  "note": "The paste expires after 365 days. The Wayback captures are the durable record."
+  "margin_before_deadline": "6 h 43 min (the margin to the originally scheduled 17:00 close was 4 h 43 min)",
+  "note": "The paste expires after 365 days. The Wayback captures are the durable record.",
+  "deadline_note": "Polls were scheduled to close at 17:00 UTC-3 (20:00 UTC). On election day the STF (Justice Zanin) extended voting nationwide to 19:00 UTC-3 (22:00 UTC). Decision text: https://www.poder360.com.br/integras/leia-a-integra-da-decisao-de-zanin-que-prorroga-votacao-ate-as-19h/"
 }
