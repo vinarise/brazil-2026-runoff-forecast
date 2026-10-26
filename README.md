@@ -14,7 +14,7 @@ A reproducible, pre-registered forecast of Brazil's 2026-10-25 runoff (Flávio B
 | Comparator | Prediction markets at the freeze: 0.791 |
 | Backtest | The same frozen model on the 2018 and 2022 runoffs, run before the result: median 56.35 vs 55.13 actual (2018) and 49.15 vs 49.10 (2022), both inside the 80% interval. `results/backtest.csv` |
 | Sealed | Hash anchored in Bitcoin (blocks 973010, mined 03:41 UTC, and 973014) and captured by the Internet Archive at 15:16 UTC, 6 h 43 min before the polls closed (voting was extended to 19:00 GMT-3 by court order on election day; the margin to the originally scheduled 17:00 close was 4 h 43 min) |
-| Result | Pending the official count. This row and the scoring outputs (`results/verdict.json`, `results/scores.csv`, `notebooks/03_scoring.executed.ipynb`, `data/result/`) arrive after scoring in a separate commit, which changes no sealed file |
+| Result | **Lula won. Flávio 48.215% of valid votes** (final TSE count, 100% of sections, file generated 23:27 GMT-3). Outside the sealed 80% interval, inside the 95%. Brier **0.715** (coin 0.250, prediction markets 0.626), log score −1.868, median error 3.37 points, PIT 0.03. By the pre-registered rule the forecast is **not useful**. All eight arms favoured Flávio; the closest median was the plain average of each pollster's last poll, 50.85. Outputs: `results/verdict.json`, `results/scores.csv`, `notebooks/03_scoring.executed.ipynb`, `data/result/`. The post-mortem follows in its own commit |
 
 ## What's here
 

@@ -3,7 +3,7 @@
 # Polls the national file politely (TSE serves max-age=22); writes results/SCORING_DONE or SCORING_FAILED.
 set -u
 cd "$(dirname "$0")/.."
-P=${VENV:-../.venv}/bin
+P=$(cd "$(dirname "$0")/.." && cd "${VENV:-../.venv}" && pwd)/bin  # absolute: the script changes directory before running papermill
 while [ "$(date +%H%M)" -lt 1705 ]; do sleep 120; done
 while true; do
   state=$($P/python -c "import sys; sys.path.insert(0,'src'); import tse; s=tse.summary(tse.fetch(tse.RUNOFF,'br',save=False)); print(int(s['final'] and s['pct_sections']>=100), s['pct_sections'])" 2>/dev/null || echo "0 err")

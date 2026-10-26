@@ -1,0 +1,22 @@
+{
+  "verdict": {
+    "status": "final",
+    "actual_flavio_two_party": 48.215,
+    "outcome_flavio_won": 0,
+    "forecast_p_flavio": 0.8456,
+    "forecast_median": 51.588,
+    "brier": 0.715,
+    "log_score": -1.8682,
+    "abs_err_median_pp": 3.373,
+    "pit": 0.03,
+    "in80": false,
+    "in95": true,
+    "beats_coin": false,
+    "beats_market": false,
+    "useful_per_preregistration": false,
+    "best_arm_by_abs_err": "M0_naive_last"
+  },
+  "scored_at_utc": "2026-10-26T02:31:07+00:00",
+  "harness_commit": "e9211c60a5d2c0eaf752ec5e619e11811577f2d4",
+  "bundle_digest": "7fc84ca5265a9ec19869c1523ea06cf395704cea349538690e90cd0454d1d41f"
+}
